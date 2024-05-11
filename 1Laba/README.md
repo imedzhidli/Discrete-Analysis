@@ -1,3 +1,3 @@
 # 1LABA
 
-![image](.img/A.png)
+![image](.img/Task.png)
