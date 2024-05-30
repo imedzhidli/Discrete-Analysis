@@ -1,5 +1,5 @@
 # 2Laba: PATRICIA
 
-![image](.img/Task_1.png)
+![image](.img/1.png)
 
-![image](.img/Task_2.png)
+![image](.img/2.png)

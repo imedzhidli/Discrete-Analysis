@@ -1,3 +1,3 @@
 # 1Laba: Сортировка подсчетом
 
-![image](.img/Task.png)
+![image](.img/1.png)
