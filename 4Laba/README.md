@@ -1,7 +1,3 @@
-# 3Laba: Профилирование
+# 4Laba: Строковые алгоритмы
 
 ![image](.img/1.png)
-
-![image](.img/2.png)
-
-![image](.img/3.png)
